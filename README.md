@@ -11,5 +11,3 @@
 > The program is entirely operated on the terminal.
 
 > The program is comprised of one file.
-
-> Enjoy :)
